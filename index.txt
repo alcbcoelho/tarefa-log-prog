@@ -1,0 +1,19 @@
+- Se eu configurei meu despertador para tocar na noite anterior
+    - O despertador toca
+    - Abro os olhos
+    - Desligo o despertador
+    - Levanto
+    - Vou até o banheiro
+    - Lavo o rosto e passo produtos para a pele
+    - Saio do quarto para tomar café
+- Caso contrário
+    - Abro os olhos
+    - Ligo a tela do meu celular
+    - Verifico que horas são
+        - Se horário for maior ou igual a 9h
+            - Levanto
+            - Vou até o banheiro
+            - Lavo o rosto e passo produtos para a pele
+            - Saio do quarto para tomar café
+        - Caso contrário
+            - Prolongo um pouco mais meu sono
